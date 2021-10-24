@@ -7,7 +7,7 @@ public class Main {
         int y = 4;
         int z = 0;
 
-        String digits = ""; //напишите тут ваш код
+        String digits = x + y + "" + z;
 
         System.out.println(digits);
     }
